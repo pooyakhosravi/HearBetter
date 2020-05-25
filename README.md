@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## HearBetter - Audiometry Tools
 
-You can use the [editor on GitHub](https://github.com/Mind-Set-Technologies/hear-better-website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+HearBetter allows you to perform hearing tests and provides sound amplification through your headphones which is customized to your level of hearing loss.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Mind-Set-Technologies/hear-better-website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Notes:
+- There will be an adjustment period once you start using the hearing assist feature, which could take several weeks.
+- Bluetooth headphones are not recommended, as they can cause a delay in the sound amplification.
+- The HearBetter app is not approved as a medical device or medical software and is not a substitute for a hearing aid. Hearing tests administered through the app are not a substitute for professional audiometric tests.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with HearBetter? Feel free to [contact support](mailto:otology@gmail.com) and we’ll help you sort it out.
