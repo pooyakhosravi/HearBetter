@@ -1,4 +1,4 @@
-## HearBetter - Audiometry Tools
+## HearBetter - Sound Amplification
 
 HearBetter allows you to perform hearing tests and provides sound amplification through your headphones which is customized to your level of hearing loss.
 
