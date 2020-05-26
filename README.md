@@ -1,6 +1,6 @@
-## HearBetter - Sound Amplification
+## HearBetter Amplification
 
-HearBetter allows you to perform hearing tests and provides sound amplification through your headphones which is customized to your level of hearing loss.
+HearBetter Amplification allows you to test your hearing levels and provides sound amplification through your headphones which is customized to your level of hearing loss.
 
 Notes:
 - There will be an adjustment period once you start using the hearing assist feature, which could take several weeks.
