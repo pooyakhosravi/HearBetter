@@ -4,7 +4,7 @@ Last updated May 26, 2020
 
 
 
-Hear Better - Audiometry Tools is licensed to You (End-User) by Mind:Set Technologies, located at 6 Viola, Irvine, California 92620, United States (hereinafter: Licensor), for use only under the terms of this License Agreement.
+Hear Better Amplification is licensed to You (End-User) by Mind:Set Technologies, located at 6 Viola, Irvine, California 92620, United States (hereinafter: Licensor), for use only under the terms of this License Agreement.
 
 By downloading the Application from the Apple AppStore, and any update thereto (as permitted by this License Agreement), You indicate that You agree to be bound by all of the terms and conditions of this License Agreement, and that You accept this License Agreement.
 
@@ -17,7 +17,7 @@ All rights not expressly granted to You are reserved.
 
 ## 1. THE APPLICATION
 
-Hear Better - Audiometry Tools (hereinafter: Application) is a piece of software created to The purpose of this app is to provide sound amplification. - and customized for Apple mobile devices. It is used to The intended use is for people who want to hear sound in a slightly amplified manner. .
+Hear Better Amplification (hereinafter: Application) is a piece of software created to The purpose of this app is to provide sound amplification. - and customized for Apple mobile devices. It is used to The intended use is for people who want to hear sound in a slightly amplified manner. .
 
 The Application is not tailored to comply with industry-specific regulations (Health Insurance Portability and Accountability Act (HIPAA), Federal Information Security Management Act (FISMA), etc.), so if your interactions would be subjected to such laws, you may not use this Application. You may not use the Application in a way that would violate the Gramm-Leach-Bliley Act (GLBA).
 
