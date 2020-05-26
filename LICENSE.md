@@ -4,7 +4,7 @@ Last updated May 26, 2020
 
 
 
-Hear Better Amplification is licensed to You (End-User) by Mind:Set Technologies, located at 6 Viola, Irvine, California 92620, United States (hereinafter: Licensor), for use only under the terms of this License Agreement.
+Hear Better Amplification is licensed to You (End-User) by Mind:Set Technologies (hereinafter: Licensor), for use only under the terms of this License Agreement.
 
 By downloading the Application from the Apple AppStore, and any update thereto (as permitted by this License Agreement), You indicate that You agree to be bound by all of the terms and conditions of this License Agreement, and that You accept this License Agreement.
 
