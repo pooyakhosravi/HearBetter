@@ -99,9 +99,6 @@ You represent and warrant that You are not located in a country that is subject 
 For general inquiries, complaints, questions or claims concerning the licensed Application, please contact:
      
 Mind:Set Technologies
-6 Viola
-Irvine, CA 92620
-United States
 otology@gmail.com
 
 
