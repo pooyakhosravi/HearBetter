@@ -10,3 +10,6 @@ Notes:
 ### Support or Contact
 
 Having trouble with HearBetter? Feel free to [contact support](mailto:otology@gmail.com) and we’ll help you sort it out.
+
+
+http://www.beyondtinnitus.com/privacy-policy
